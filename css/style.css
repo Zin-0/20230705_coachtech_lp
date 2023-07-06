@@ -76,6 +76,7 @@ span {
     display: flex;
     padding: 0 0 2vh 0;
     border-bottom: solid 1px #a9a9a9;
+    list-style: none;
 }
 .news__list {
     list-style: none;
